@@ -7,7 +7,7 @@ This project contains automated test cases for the **Singlish to Sinhala transla
 - **Student ID:** IT23164826
 - **Course:** IT3040 - ITPM (IT Project Management)
 - **Assignment:** Assignment 1
-- **Semester:** Semester 1, Year 3
+- **Semester:** Semester 2, Year 3
 - **Academic Year:** 2025/2026
 
 ## ✅ Test Coverage Summary
